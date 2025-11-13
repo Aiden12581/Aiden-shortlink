@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  ai:
+    tong-yi:
+      api-key: your-api-key-here
+      base-url: https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation
+      model: qwen-max
+
